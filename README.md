@@ -47,8 +47,8 @@ I’m really passionate about the gym—it’s my way to unwind and stay focused
 
 ## 📫 Get in Touch
 
-- **Email:** [noam.dev@gmail.com](mailto:noam.dev@gmail.com)
-- **LinkedIn:** [linkedin.com/in/noam-dev](https://www.linkedin.com/in/noam-dev)
-- **GitHub:** [github.com/noam-dev](https://github.com/noam-dev)
+- **Email:** [noam.favier@icloud.com](mailto:noam.favier@icloud.com)
+- **LinkedIn:** [https://www.linkedin.com/in/noam-favier/](https://www.linkedin.com/in/noam-favier-5461b7297/)
+- **GitHub:** [github.com/noam-dev](https://youtu.be/dQw4w9WgXcQ?si=MRZFkwi9U0cl0J4R)
 
 Feel free to check out my projects and contribute if something catches your eye! Always down to chat about tech, AI, or the latest in fitness and health. 💬
