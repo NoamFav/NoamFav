@@ -50,13 +50,28 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 - An immersive game developed in Java with Swing, offering a rich storyline and interactive gameplay. Players can start new games or load previous ones, with features like inventory management and save/load systems. The game is optimized for 16:9 aspect ratios and includes background music for an enhanced experience.
 
 ### [QueryCrust](https://github.com/NoamFav/QueryCrust)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-- A command-line tool designed to streamline database queries, making data retrieval more efficient for developers. It supports multiple database types and offers a user-friendly interface for executing and managing queries.
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- A web-based database query tool built using React, TailwindCSS, Python, Flask, and MySQL. QueryCrust offers an intuitive interface for managing and optimizing database queries, perfect for developers working with complex datasets. simulating a sort of pizzeria
 
 ### [Daddy's Home (Jarvis Prototype)](https://github.com/NoamFav/DaddysHome)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 - An early-stage attempt at creating a personal assistant akin to Jarvis from Iron Man. This project focuses on integrating various AI and automation features to assist with daily tasks and information retrieval.
-
+- 
+### [Resume & Blog Website](https://github.com/NoamFav/Resume)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-%23CC0000.svg?style=for-the-badge&logo=flyway&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Diesel](https://img.shields.io/badge/Diesel-%23003344.svg?style=for-the-badge&logo=diesel&logoColor=white)
+- A comprehensive resume and blog website built with Vite, React, and CSS. The website includes a dynamic blog for showcasing projects and work. Backed by a robust Rust and Diesel API, with Docker for containerization and Flyway for database migrations, it utilizes MySQL for data storage.
 ---
 
 # 💻 What I’m Working On
@@ -76,17 +91,12 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 - **Porting ShadowedHunter to Unity**  
   ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  - Transforming **ShadowedHunter** into a Metroidvania-style game in Unity, while preserving the original lore and enhancing gameplay mechanics. [GitHub Repository](https://github.com/NoamFav/ShadowedHunter)
+  - Transforming **ShadowedHunter** into a Metroidvania-style game in Unity, while preserving the original lore and enhancing gameplay mechanics. [GitHub Repository](https://github.com/NoamFav/ShadowedHunterMetroidvania)
  
 - **Frisian Draughts Multiplayer Game**  
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
   - Developing a Frisian draughts (checkers) multiplayer game in Java with JavaFX. This platform will feature real-time multiplayer capabilities, elegant UI design, and robust match-making and statistics tracking. [GitHub Repository](https://github.com/NoamFav/FrisianDraughts)
-
-- **Resume Website**  
-  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  - Continuously improving my personal resume website to showcase my skills and projects. [GitHub Repository](https://github.com/NoamFav/Resume)
 
 ---
 
