@@ -1,3 +1,4 @@
+
 # Hey, I'm Noam! 👋
 
 **Software Engineer | Data Scientist | AI Enthusiast | Bodybuilder**
@@ -24,9 +25,22 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 ## 🚀 Technologies & Tools
 
 - **Languages:** Rust, Swift, Kotlin, Java, Python, C, C++, HTML, CSS, C#
-- **Frameworks & Tools:** LWJGL, Neovim, Mason, SwiftUI, React, Maven, IntelliJ IDEA, javaFX, 
+- **Frameworks & Tools:** LWJGL, Neovim, Mason, SwiftUI, React, Maven, IntelliJ IDEA, javaFX
 - **Specialties:** Data Science, AI, Game Development, Mobile App Development, Software engineering
 - **Platforms:** macOS, iOS, WatchOS, TvOS, Linux, Windows
+
+---
+
+## 📊 GitHub Stats
+
+![NoamFav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoamFav&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical)
+
+---
+
+## 🎨 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NoamFav&theme=radical)
 
 ---
 
@@ -49,6 +63,6 @@ I’m really passionate about the gym—it’s my way to unwind and stay focused
 
 - **Email:** [noam.favier@icloud.com](mailto:noam.favier@icloud.com)
 - **LinkedIn:** [https://www.linkedin.com/in/noam-favier/](https://www.linkedin.com/in/noam-favier-5461b7297/)
-- **GitHub:** [github.com/noamFav](https://youtu.be/dQw4w9WgXcQ?si=MRZFkwi9U0cl0J4R)
+- **GitHub:** [github.com/NoamFav](https://github.com/NoamFav)
 
 Feel free to check out my projects and contribute if something catches your eye! Always down to chat about tech, AI, or the latest in fitness and health. 💬
