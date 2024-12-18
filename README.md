@@ -21,12 +21,6 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 
 ---
 
-## 📈 Contribution Graph
-
-[![Noam's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NoamFav&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 # 🔭 Goals & Interests
 
 - I’m aiming for a career in **major tech companies** like **NVIDIA, OpenAI, Microsoft**, and **Google**.
@@ -79,9 +73,15 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
   ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   - Building an AI-powered chess engine in Rust to improve my understanding of game algorithms. [GitHub Repository](https://github.com/NoamFav/chess-bot)
 
-- **Java Game Development**  
+- **Porting ShadowedHunter to Unity**  
+  ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  - Transforming **ShadowedHunter** into a Metroidvania-style game in Unity, while preserving the original lore and enhancing gameplay mechanics. [GitHub Repository](https://github.com/NoamFav/ShadowedHunter)
+ 
+- **Frisian Draughts Multiplayer Game**  
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  - Working on **ShadowedHunter**, my first game developed in Java using Swing, to deepen my experience in game development. [GitHub Repository](https://github.com/NoamFav/ShadowedHunter)
+  ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
+  - Developing a Frisian draughts (checkers) multiplayer game in Java with JavaFX. This platform will feature real-time multiplayer capabilities, elegant UI design, and robust match-making and statistics tracking. [GitHub Repository](https://github.com/NoamFav/FrisianDraughts)
 
 - **Resume Website**  
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
