@@ -1,4 +1,3 @@
-
 # Hey, I'm Noam! 👋
 
 **Software Engineer | Data Scientist | AI Enthusiast | Bodybuilder**
@@ -35,12 +34,6 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 
 ![NoamFav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoamFav&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical)
-
----
-
-## 🎨 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NoamFav&theme=radical)
 
 ---
 
