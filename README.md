@@ -1,6 +1,6 @@
 # Hey, I'm Noam! 👋
 
-**Software Engineer | Data Scientist | AI Enthusiast | Bodybuilder**
+**Software Engineer | Data Scientist | AI Enthusiast**
 
 ---
 
