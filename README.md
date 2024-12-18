@@ -72,31 +72,20 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Diesel](https://img.shields.io/badge/Diesel-%23003344.svg?style=for-the-badge&logo=diesel&logoColor=white)
 - A comprehensive resume and blog website built with Vite, React, and CSS. The website includes a dynamic blog for showcasing projects and work. Backed by a robust Rust and Diesel API, with Docker for containerization and Flyway for database migrations, it utilizes MySQL for data storage.
----
 
-# 💻 What I’m Working On
+### [Custom Neovim Configuration](https://github.com/NoamFav/Nvim-config)  
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+- Developing a personalized Neovim setup using Lazy and Mason to enhance my development workflow.
 
-- **Custom Neovim Configuration**  
-  ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-  - Developing a personalized Neovim setup using Lazy and Mason to enhance my development workflow. [GitHub Repository](https://github.com/NoamFav/Nvim-config)
+### [Porting ShadowedHunter to Unity](https://github.com/NoamFav/ShadowedHunterMetroidvania)  
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- Transforming **ShadowedHunter** into a Metroidvania-style game in Unity, while preserving the original lore and enhancing gameplay mechanics.
 
-- **AppleOS App Development**  
-  ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-  - Creating **PyNexus**, an educational game designed to teach Python, utilizing Swift. [GitHub Repository](https://github.com/NoamFav/PyNexus)
-
-- **Rust Chess Bot**  
-  ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-  - Building an AI-powered chess engine in Rust to improve my understanding of game algorithms. [GitHub Repository](https://github.com/NoamFav/chess-bot)
-
-- **Porting ShadowedHunter to Unity**  
-  ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  - Transforming **ShadowedHunter** into a Metroidvania-style game in Unity, while preserving the original lore and enhancing gameplay mechanics. [GitHub Repository](https://github.com/NoamFav/ShadowedHunterMetroidvania)
- 
-- **Frisian Draughts Multiplayer Game**  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
-  - Developing a Frisian draughts (checkers) multiplayer game in Java with JavaFX. This platform will feature real-time multiplayer capabilities, elegant UI design, and robust match-making and statistics tracking. [GitHub Repository](https://github.com/NoamFav/FrisianDraughts)
+### [Frisian Draughts Multiplayer Game](https://github.com/NoamFav/FrisianDraughts)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
+- Developing a Frisian draughts (checkers) multiplayer game in Java with JavaFX. This platform will feature real-time multiplayer capabilities, elegant UI design, and robust match-making and statistics tracking.
 
 ---
 
