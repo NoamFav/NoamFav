@@ -21,6 +21,10 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 
 ---
 
+![GitHub Contribution Snake](https://NoamFav.github.io/NoamFav/github-contribution-grid-snake.svg)
+
+---
+
 # 🔭 Goals & Interests
 
 - I’m aiming for a career in **major tech companies** like **NVIDIA, OpenAI, Microsoft**, and **Google**.
