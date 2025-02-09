@@ -21,7 +21,7 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 
 ---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/NoamFav/NoamFav/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/NoamFav/NoamFav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
