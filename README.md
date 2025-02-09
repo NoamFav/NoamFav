@@ -98,6 +98,11 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 
 ---
 
+## ⚡Activity Graph
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=NoamFav&theme=react-dark"/>
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
