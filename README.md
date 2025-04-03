@@ -61,10 +61,6 @@ Currently, I’m focusing on **Rust** and **C++** for game development, while al
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - A web-based database query tool built using React, TailwindCSS, Python, Flask, and MySQL. QueryCrust offers an intuitive interface for managing and optimizing database queries, perfect for developers working with complex datasets. simulating a sort of pizzeria
 
-### [Daddy's Home (Jarvis Prototype)](https://github.com/NoamFav/DaddysHome)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-- An early-stage attempt at creating a personal assistant akin to Jarvis from Iron Man. This project focuses on integrating various AI and automation features to assist with daily tasks and information retrieval.
-- 
 ### [Resume & Blog Website](https://github.com/NoamFav/Resume)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
