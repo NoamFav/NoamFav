@@ -125,49 +125,24 @@ I'm a **junior software engineer** and a **Data Science and AI** student at the 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
 <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
 
-### [Pot Pot Golf](https://github.com/NoamFav/Pot_Pot_Golf)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![LWJGL](https://img.shields.io/badge/LWJGL-%232E8B57.svg?style=flat-square&logo=java&logoColor=white)
-
-A golfing game developed in Java using LWJGL, featuring realistic physics and AI opponents. Players input initial velocities to control the ball, aiming to sink it with the fewest shots. The game includes customizable friction settings and supports both human and bot players.
-</div>
-
-<div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-
-### [ShadowedHunter](https://github.com/NoamFav/ShadowedHunter)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-%23E34F26.svg?style=flat-square&logo=java&logoColor=white)
-
-An immersive game developed in Java with Swing, offering a rich storyline and interactive gameplay. Players can start new games or load previous ones, with features like inventory management and save/load systems. The game is optimized for 16:9 aspect ratios and includes background music for an enhanced experience.
-</div>
-
-<div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-
-### [QueryCrust](https://github.com/NoamFav/QueryCrust)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+### [Repository Manager](https://github.com/NoamFav/repo_manager)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 
-A web-based database query tool built using React, TailwindCSS, Python, Flask, and MySQL. QueryCrust offers an intuitive interface for managing and optimizing database queries, perfect for developers working with complex datasets, simulating a sort of pizzeria.
+A comprehensive toolkit for managing multiple Git repositories with intelligent commit messages, automatic syncing, and GitHub repository cloning. Features AI-powered commit message generation, batch repository processing, and rich terminal visualizations.
 </div>
 
 <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 
-### [Resume & Blog Website](https://github.com/NoamFav/Resume)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+### [Iris - AI Coding Assistant](https://github.com/NoamFav/Iris)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
-A comprehensive resume and blog website built with Vite, React, and CSS. The website includes a dynamic blog for showcasing projects and work. Backed by a robust Rust and Diesel API, with Docker for containerization and Flyway for database migrations, it utilizes MySQL for data storage.
+A fully on-device AI-powered coding assistant for Neovim/VS Code that provides contextual code suggestions and interactive debugging assistance. Built with Go, Python, and Rust, it uses whisper.cpp, Coqui TTS, llama.cpp, SQLite, and Redis to ensure privacy with locally-running language models.
 </div>
 
 <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
@@ -176,27 +151,49 @@ A comprehensive resume and blog website built with Vite, React, and CSS. The web
 ### [Custom Neovim Configuration](https://github.com/NoamFav/Nvim-config)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 
-Developing a personalized Neovim setup using Lazy and Mason to enhance my development workflow with features like LSP support, auto-completion, Git integration, file exploration, and more.
+A meticulously crafted Neovim configuration optimized for professional software development workflows. Features include custom plugins, intuitive keybindings, intelligent code completion through Mason and LSP, Git integration, file exploration, and more - all powered by `lazy.nvim` for efficient plugin management.
+</div>
+
+<div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
+<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
+
+### [apple_music.nvim](https://github.com/NoamFav/apple_music.nvim)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![AppleScript](https://img.shields.io/badge/AppleScript-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
+
+A Neovim plugin that integrates with Apple Music, allowing users to control playback directly from their editor. Features include play/pause, track skipping, and real-time display of the currently playing song. Designed for seamless music control without leaving the coding environment.
 </div>
 
 <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
 <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
 
-### [Porting ShadowedHunter to Unity](https://github.com/NoamFav/ShadowedHunterMetroidvania)
+### [ShadowedHunter Metroidvania](https://github.com/NoamFav/ShadowedHunterMetroidvania)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 
-Transforming **ShadowedHunter** into a Metroidvania-style game in Unity, while preserving the original lore and enhancing gameplay mechanics with more fluid movement and combat systems.
+A sophisticated Metroidvania-style game featuring intricate puzzles, advanced combat mechanics, and immersive storytelling. Built with Unity and C#, it incorporates physics-based interactions, AI-driven enemy behaviors, and a comprehensive inventory management system. This is a port and expansion of the original Java-based ShadowedHunter game.
 </div>
 
 <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
 <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
-### [Frisian Draughts Multiplayer Game](https://github.com/NoamFav/FrisianDraughts)
+### [Pot Pot Golf](https://github.com/NoamFav/Pot_Pot_Golf)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=flat-square&logo=java&logoColor=white)
+![LWJGL](https://img.shields.io/badge/LWJGL-%232E8B57.svg?style=flat-square&logo=java&logoColor=white)
 
-Developing a Frisian draughts (checkers) multiplayer game in Java with JavaFX. This platform features real-time multiplayer capabilities, elegant UI design, and robust match-making and statistics tracking.
+A physics-based 2D mini-golf simulation featuring realistic ball dynamics, variable terrain properties, and intelligent AI opponents. Players strategically control initial velocities and angles to navigate challenging courses with the fewest shots possible while contending with customizable friction and obstacle settings.
+</div>
+
+<div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
+<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+
+### [BitVoyager](https://github.com/NoamFav/BitVoyager)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=flat-square&logo=webassembly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+
+A browser-based gamified programming education platform where users complete interactive coding challenges in a simulated development environment. Features an XP-based progression system, skill trees, and a comprehensive curriculum covering multiple programming paradigms.
 </div>
 
 </div>
