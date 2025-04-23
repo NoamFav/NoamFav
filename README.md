@@ -135,17 +135,6 @@ A comprehensive toolkit for managing multiple Git repositories with intelligent 
 </div>
 
 <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-
-### [Iris - AI Coding Assistant](https://github.com/NoamFav/project-Iris)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-
-A fully on-device AI-powered coding assistant for Neovim/VS Code that provides contextual code suggestions and interactive debugging assistance. Built with Go, Python, and Rust, it uses whisper.cpp, Coqui TTS, llama.cpp, SQLite, and Redis to ensure privacy with locally-running language models.
-</div>
-
-<div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
 <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
 
 ### [Custom Neovim Configuration](https://github.com/NoamFav/Nvim-config)
