@@ -2,7 +2,9 @@
 
 # 👋 Hey, I'm Noam!
 
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Software+Engineer;Data+Scientist;AI+Enthusiast" alt="Typing SVG" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NoamFavier) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24497800)
