@@ -9,7 +9,7 @@
 </div>
 
 <!-- Animated Typing with Multiple Lines -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Software+Engineer+%7C+AI+Researcher+%7C+Game+Developer;Building+Tomorrow's+Technology+Today;Rust+%2B+C%2B%2B+%2B+Swift+%2B+Python+%3D+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Software+Engineer+%7C+AI+Researcher+%7C+Game+Developer;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
 
 <!-- Animated Social Badges -->
 <p>
@@ -36,7 +36,7 @@
 
 <!-- About Me Section with Glassmorphism Style -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=6A5ACD&center=true&width=800&lines=%F0%9F%9A%80+ABOUT+ME+%F0%9F%9A%80" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=6A5ACD&center=true&width=800&lines=%F0%9F%9A%80+ABOUT+ME+%F0%9F%9A%80" alt="About Me" />
 </div>
 
 <table align="center">
@@ -86,7 +86,7 @@ achievements = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=00D9FF&center=true&width=800&lines=%F0%9F%92%BB+TECH+ARSENAL+%F0%9F%92%BB" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&width=800&lines=%F0%9F%92%BB+TECH+ARSENAL+%F0%9F%92%BB" alt="Tech Stack" />
 </div>
 
 <!-- Animated Tech Stack with Hover Effects -->
@@ -127,7 +127,7 @@ achievements = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=FF69B4&center=true&width=800&lines=%F0%9F%8F%86+FEATURED+PROJECTS+%F0%9F%8F%86" alt="Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=FF69B4&center=true&width=800&lines=%F0%9F%8F%86+FEATURED+PROJECTS+%F0%9F%8F%86" alt="Projects" />
 </div>
 
 <!-- Project Cards with Animations -->
@@ -148,7 +148,7 @@ achievements = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=6A5ACD&center=true&width=800&lines=%F0%9F%93%8A+GITHUB+ANALYTICS+%F0%9F%93%8A" alt="Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=6A5ACD&center=true&width=800&lines=%F0%9F%93%8A+GITHUB+ANALYTICS+%F0%9F%93%8A" alt="Stats" />
 </div>
 
 <div align="center">
