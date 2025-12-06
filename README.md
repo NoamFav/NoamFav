@@ -1,5 +1,8 @@
 <div align="center">
 
+
+
+
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=24&text=NOAM%20FAVIER&fontSize=90&fontColor=fff&animation=twinkling&desc=Building%20the%20Future%20with%20Code%20and%20AI&descSize=25&descAlignY=70&stroke=FFFFFF&strokeWidth=2" alt="Banner" />
 
