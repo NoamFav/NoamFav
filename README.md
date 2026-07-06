@@ -197,7 +197,7 @@ achievements = {
 -->
 
 ### 📬 Let's Connect!
-<a href="mailto:noam.favier@example.com">
+<a href="mailto:noamfav@nf-software.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/users/yourdiscordid">
