@@ -136,14 +136,14 @@ achievements = {
 <!-- Project Cards with Animations -->
 <div align="center">
 
-[![Repository Manager](https://github-readme-stats.vercel.app/api/pin/?username=NoamFav&repo=repo_manager&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/repo_manager)
-[![Neovim Config](https://github-readme-stats.vercel.app/api/pin/?username=NoamFav&repo=Nvim-config&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Nvim-config)
+[![Repository Manager](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Zvezda&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zvezda)
+[![Neovim Config](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Nvim-config&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Nvim-config)
 
-[![Apple Music Plugin](https://github-readme-stats.vercel.app/api/pin/?username=NoamFav&repo=apple_music.nvim&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/apple_music.nvim)
-[![ShadowedHunter](https://github-readme-stats.vercel.app/api/pin/?username=NoamFav&repo=ShadowedHunterMetroidvania&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/ShadowedHunterMetroidvania)
+[![Apple Music Plugin](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Zarya.nvim&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zarya.nvim)
+[![ShadowedHunter](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=ShadowedHunter&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/ShadowedHunter)
 
-[![Pot Pot Golf](https://github-readme-stats.vercel.app/api/pin/?username=NoamFav&repo=Pot_Pot_Golf&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Pot_Pot_Golf)
-[![BitVoyager](https://github-readme-stats.vercel.app/api/pin/?username=NoamFav&repo=BitVoyager&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/BitVoyager)
+[![Pot Pot Golf](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Pot_Pot_Golf&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Pot_Pot_Golf)
+[![BitVoyager](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=BitVoyager&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/BitVoyager)
 
 </div>
 
@@ -155,18 +155,18 @@ achievements = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NoamFav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoamFav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoamFav&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF69B4&currStreakLabel=FFFFFF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoamFav&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF69B4&point=FFFFFF" />
 </div>
 
 <!-- Trophy Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NoamFav&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=NoamFav&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <!-- Contribution Snake -->
@@ -187,7 +187,14 @@ achievements = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=00D9FF)
 
 ### 🎵 Vibing To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true)
+<!--
+  spotify-github-profile's demo instance now returns "Payment required" (DEPLOYMENT_DISABLED).
+  To bring this back: fork https://github.com/novatorem/spotify-github-profile, deploy your own
+  Vercel instance with your own Spotify API client id/secret + refresh token (their README has
+  the full setup), then restore this block pointing at your own deployment URL:
+
+  [![spotify-github-profile](https://<your-instance>.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://<your-instance>.vercel.app/api/view?uid=11147618695&redirect=true)
+-->
 
 ### 📬 Let's Connect!
 <a href="mailto:noam.favier@example.com">
