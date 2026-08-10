@@ -1,8 +1,5 @@
 <div align="center">
 
-
-
-
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=24&text=NOAM%20FAV&fontSize=90&fontColor=fff&animation=twinkling&desc=Building%20the%20Future%20with%20Code%20and%20AI&descSize=25&descAlignY=70&stroke=FFFFFF&strokeWidth=2" alt="Banner" />
 
@@ -47,6 +44,7 @@
 <td width="50%">
 
 ### 🎯 Current Focus
+
 <img align="right" width="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 
 ```rust
@@ -66,6 +64,7 @@ let current_mission = Mission {
 <td width="50%">
 
 ### 🌟 Achievements Unlocked
+
 <img align="right" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ```python
@@ -96,21 +95,25 @@ achievements = {
 <div align="center">
 
 ### ⚡ Core Languages
+
 <div>
   <img src="https://skillicons.dev/icons?i=rust,cpp,swift,python,java,js,ts,go,cs,lua&theme=dark&perline=10" />
 </div>
 
 ### 🎨 Frontend Mastery
+
 <div>
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite,webpack,figma&theme=dark&perline=7" />
 </div>
 
 ### 🔧 Backend & Tools
+
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,django,flask,mysql,git,github,gitlab,cmake&theme=dark&perline=8" />
 </div>
 
 ### 🤖 AI/ML & Data Science
+
 <div>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=3" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -119,6 +122,7 @@ achievements = {
 </div>
 
 ### 🎮 Game Development
+
 <div>
   <img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark&perline=3" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
@@ -136,14 +140,14 @@ achievements = {
 <!-- Project Cards with Animations -->
 <div align="center">
 
-[![Repository Manager](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Zvezda&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zvezda)
-[![Neovim Config](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Nvim-config&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Nvim-config)
+[![Repository Manager](https://github-stats-extended-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Zvezda&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zvezda)
+[![Neovim Config](https://github-stats-extended-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Nvim-config&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Nvim-config)
 
-[![Apple Music Plugin](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Zarya.nvim&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zarya.nvim)
-[![ShadowedHunter](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=ShadowedHunter&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/ShadowedHunter)
+[![Apple Music Plugin](https://github-stats-extended-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Zarya.nvim&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zarya.nvim)
+[![ShadowedHunter](https://github-stats-extended-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=ShadowedHunter&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/ShadowedHunter)
 
-[![Pot Pot Golf](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Pot_Pot_Golf&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Pot_Pot_Golf)
-[![BitVoyager](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=BitVoyager&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/BitVoyager)
+[![Pot Pot Golf](https://github-stats-extended-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=Pot_Pot_Golf&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Pot_Pot_Golf)
+[![BitVoyager](https://github-stats-extended-sigma-five.vercel.app/api/pin/?username=NoamFav&repo=BitVoyager&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/BitVoyager)
 
 </div>
 
@@ -155,12 +159,12 @@ achievements = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoamFav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-stats-extended-sigma-five.vercel.app/api?username=NoamFav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoamFav&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF69B4&currStreakLabel=FFFFFF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+  <img width="49%" src="https://github-stats-extended-sigma-five.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoamFav&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF69B4&point=FFFFFF" />
 </div>
 
@@ -182,11 +186,13 @@ achievements = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  
+
 ### 💭 Random Dev Wisdom
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=00D9FF)
 
 ### 🎵 Vibing To
+
 <!--
   spotify-github-profile's demo instance now returns "Payment required" (DEPLOYMENT_DISABLED).
   To bring this back: fork https://github.com/novatorem/spotify-github-profile, deploy your own
@@ -197,6 +203,7 @@ achievements = {
 -->
 
 ### 📬 Let's Connect!
+
 <a href="mailto:noamfav@nf-software.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
