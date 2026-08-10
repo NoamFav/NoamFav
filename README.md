@@ -170,7 +170,7 @@ achievements = {
 
 <!-- Trophy Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NoamFav&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=NoamFav&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <!-- Contribution Snake -->
