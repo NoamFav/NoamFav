@@ -140,14 +140,14 @@ achievements = {
 <!-- Project Cards with Animations -->
 <div align="center">
 
-[![Repository Manager](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=Zvezda&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zvezda)
-[![Neovim Config](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=Nvim-config&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Nvim-config)
+[![Repository Manager](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=Zvezda&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zvezda)
+[![Neovim Config](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=Nvim-config&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Nvim-config)
 
-[![Apple Music Plugin](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=Zarya.nvim&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zarya.nvim)
-[![ShadowedHunter](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=ShadowedHunter&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/ShadowedHunter)
+[![Apple Music Plugin](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=Zarya.nvim&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Zarya.nvim)
+[![ShadowedHunter](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=ShadowedHunter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/ShadowedHunter)
 
-[![Pot Pot Golf](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=Pot_Pot_Golf&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Pot_Pot_Golf)
-[![BitVoyager](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=BitVoyager&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/BitVoyager)
+[![Pot Pot Golf](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=Pot_Pot_Golf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/Pot_Pot_Golf)
+[![BitVoyager](https://github-stats-extended.vercel.app/api/pin/?username=NoamFav&repo=BitVoyager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4)](https://github.com/NoamFav/BitVoyager)
 
 </div>
 
@@ -159,18 +159,18 @@ achievements = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=NoamFav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoamFav&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF69B4&currStreakLabel=FFFFFF" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=NoamFav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoamFav&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF69B4&currStreakLabel=FFFFFF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NoamFav&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoamFav&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF69B4&point=FFFFFF" />
 </div>
 
 <!-- Trophy Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=NoamFav&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=NoamFav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <!-- Contribution Snake -->
@@ -189,7 +189,7 @@ achievements = {
 
 ### 💭 Random Dev Wisdom
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=00D9FF)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=00D9FF)
 
 ### 🎵 Vibing To
 
@@ -225,6 +225,6 @@ achievements = {
 <!-- Hidden Metrics -->
 <!--
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoamFav&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoamFav&theme=tokyonight" />
 </div>
 -->
