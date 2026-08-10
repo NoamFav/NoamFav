@@ -164,7 +164,7 @@ achievements = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NoamFav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&count_private=true" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoamFav&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF69B4&point=FFFFFF" />
 </div>
 
