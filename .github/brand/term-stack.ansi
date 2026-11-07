@@ -1,0 +1,6 @@
+$ cat ~/stack
+[1;32mlanguages[0m    [37mrust  c++  swift  python  java  javascript  typescript  go  c#  lua[0m
+[1;32mfrontend[0m     [37mreact  tailwind  html  css  vite  webpack  figma[0m
+[1;32mbackend[0m      [37mnode.js  django  flask  mysql  git  github  gitlab  cmake[0m
+[1;32mai / ml[0m      [37mpytorch  tensorflow  opencv  numpy  pandas  scikit-learn[0m
+[1;32mgames[0m        [37munity  unreal  blender  opengl[0m

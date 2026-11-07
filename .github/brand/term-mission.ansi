@@ -1,0 +1,9 @@
+$ cat mission.rs
+[33mlet[0m [37mcurrent_mission[0m = [1;37mMission[0m {
+    [37mmastering[0m:   [32m"Rust & C++"[0m,
+    [37mbuilding[0m:    [32m"Swift/Kotlin Apps"[0m,
+    [37mresearching[0m: [32m"AI/ML Models"[0m,
+    [37mcreating[0m:    [32m"Game Engines"[0m,
+    [37manalyzing[0m:   [32m"Big Data"[0m,
+    [37mtarget[0m:      [32m"NVIDIA | OpenAI | Google"[0m,
+};
